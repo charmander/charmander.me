@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/charmander
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://charmander.me
+  * I am charmander (https://keybase.io/charmander) on keybase.
+  * I have a public key with fingerprint 306D 15DD D82E C397 96CB  F9C1 219E FB31 96A8 710F
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.3.2"
+        },
+        "key": {
+            "fingerprint": "306d15ddd82ec39796cbf9c1219efb3196a8710f",
+            "host": "keybase.io",
+            "key_id": "219EFB3196A8710F",
+            "uid": "caacbf2f49812d26850fad0ce278f000",
+            "username": "charmander"
+        },
+        "merkle_root": {
+            "ctime": 1399831694,
+            "hash": "8779ab66e34cfe8910424851118932885a477b20cd3088c714dbe04c308bdd6d32a8bfb039ae086840a65a37607efe89580f75f791b6debd64a01d957cbdcaf8",
+            "seqno": 6973
+        },
+        "service": {
+            "hostname": "charmander.me",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1399831718,
+    "expire_in": 157680000,
+    "prev": "e2817a26d17e713d3012d5ee6abe08d50d679a460bb65b5363c2d207507e2eb1",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2.0.22 (GNU/Linux)
+
+owFlkntMFFcUxnkUDIgBbFW0SGGiWOy6mTuz81ofIFBaqmirIH0Q8M7cO8vIMoOz
+u8i6QVEEtZb6KFhCX6GhT0tqfcUEtVibgpJaaNRULFFr8ZFsS01JNEixdwhNa/rf
+nDm/+93zfefumRIeEhaa8v4DsP/T9bGhPXfkkNXGiS8ClGwgP+UMUIpbw7rX+tJh
+OaacVBn2y9CD7ZqRrBsI29d5kicYG1WJTY9m6ISi7aydoaptFm4dVjXdhc0KU7O0
+KJbmEeAQQiKDFVYSJF6RVUkBDJCwKrNA4qEoAFolkqWGx/vIrdS4ZomGyF/CP5uT
+afFLLT6H9HzjDQVCosioDkkEDGJ4kaNViGgFM4Ko0jRtgR5sTlhSSqFZDnWETWvi
+cmyWuXGJaRjjthWvZkGAlSSRBbzkIDNBTyk5JgqCBGWex6xDUbEoAdrBOEQOACBK
+LCOKHHQIgszQCmJpUVQE4EAyph0KqWSEeMQyUJRVmWYliGmRFx005DnICjwtYEuP
+E2lV4FRBAjKPsIx4B6QBkjhBkZECVZGY8OD1ukE5eUlgq63KrNQUbE1txfY/d3ZS
+26gK0/AaiuEmrVKvt8LjtEx7/RUWuwF/KZdMyJTImo7I2v67V0DQRwMRgGijcFWF
+ZuISzSI4gRdJwrR1Ea4kmpgRgQAZsnEBC4AlYZCVcBjzkKQhIo5GPMnRwdOyzHMy
+x/KsQlZGCxyJgcEy+NemQOaELiLp0Vw69PpMTFXvDEt8LCQ0LCQyIsx6uCHRUXH/
+vOaFGbFjCw4/n5ltzt3Y1ptWd2dT+1KmlKqs3+10F0UWXF9nAw9dSxKurW3Vk1cW
+NUVe3p9/JRot+nYgf3Jd3I4nmwODubdP++KzUGjgwYhaf+LCTw3lYR/ends1XDbq
+f+/Wyu6axt/DhdGovk/cD/86u+3SaaNrwD247YzXPq/q8w5b/Ov+adh1puNQWvfm
+3KNrtqfS+uK8Ge4jhQeH3eD+8HIm8+ue49WJcZHsgWNPdAmLC6raDmwZKz60ubq5
+oC2tf8t9542fte0XXO/Oj1kRM6e44audA+DcYNv57+J7G4PN9vqnFwN4I2nfseLY
+V/tLWvof72kfndYEz9s602ty+y5eqt5lurKHNl6evujMm+ec5tFTrb6UHxbkjZyY
+vcZ19eG0wMw9Pn1GAHYsK2gHvUujGtKqNq1KuTh0tW/qLP1YTzcKdrlsh2OUaDA/
+c1JGUUcw5+70jIWlL6w5tWjvO7vB1mDdsjn1kxrn3Q58f5Y9e3jy1ufaI2MTPhLu
+dWoRvr2HgsHffqndp3mjkgrtRX9ErF3+yobyt84Nj6R1Fv85Gp7NlqfLnnz1x5e3
+DH12sqO25lbiU7OvrUoy+rKrzHbt4MgKc1b3x8edHwSi32aOvOhLPZm6Kzu5qdbf
+snpKa+Yb6tjwzKmv3WzKS8niIu/5e7/Jmt69xAMLjfSX8JWE/GfiQtp/vdnSNcO4
+nvo3
+=tw5B
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/charmander
+
+==================================================================

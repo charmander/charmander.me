@@ -1,0 +1,5 @@
+: index.rl style.css |> node_modules/.bin/razorleaf -d "{\"style\": \$(node -p 'JSON.stringify(fs.readFileSync("style.css", "utf8").trimEnd())')}" index.rl > %o |> build/index-raw.html
+: build/index-raw.html |> sed -e 's#</li>\(<li>\|</[ou]l>\)#\1#gi' -e 's#</html>$##' %f > %o |> build/index.html
+: build/index.html |> zopfli -c --i1000 %f > %o |> build/index.html.gz
+: build/index.html |> brotli --force --best -w 0 --output=%o -- %f |> build/index.html.br
+: favicon.png |> cwebp %f -o %o |> build/icon.webp
