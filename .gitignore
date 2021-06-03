@@ -1,3 +1,2 @@
-/.tup/
-/build/
-/node_modules/
+/static/index.html
+/static/icon.webp
